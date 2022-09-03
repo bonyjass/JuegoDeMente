@@ -53,7 +53,7 @@ function destapar(id){
                 tarjeta2.disabled = false;
                 tarjetasDestapadas = 0;
 
-            }, 2000);
+            }, 1000);
         }
     }
 }
